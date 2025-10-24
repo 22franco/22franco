@@ -62,6 +62,20 @@ Busco una oportunidad laboral que me permita desarrollarme profesionalmente, apo
 
 </p>
 
+## 🗃️ Bases de Datos
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+</p>
+
+Me especializo en el diseño, modelado y optimización de bases de datos relacionales. Disfruto trabajar con grandes volúmenes de datos, crear consultas eficientes y asegurar la integridad de la información. ¡Las bases de datos son mi zona de confort!
+
+
+
+
 <br>
 <br>
 
